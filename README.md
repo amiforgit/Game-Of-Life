@@ -1,5 +1,7 @@
 # Game-Of-Life
 
+This game is build as an Android app.
+
 It is a grid of 12x12 where in each cell is initialized to DEAD state. On clicking it the state changes to LIVE and reclicking agains puts it in the DEAD state.
 Clicking on NEXT button takes the grid into next generation and RESET button brigs it to default state. 
 
